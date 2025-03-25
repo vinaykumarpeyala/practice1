@@ -3,7 +3,7 @@
 void main()
 {
 clrscr();
- cout<<"hi sushanth"<<endl;
+ cout<<"hi sushanthh"<<endl;
 getch();
 
 }
